@@ -1,5 +1,5 @@
 # code_TRAC
-This repository includes multiple R files that contain the functions for implementing all the point and variance estimation formulas presented in the paper [Tian Z, Chinchilli VM, Zhou S. TRAC: Robust Assessment of Inter-Rater Agreement and Reliability. Under Review.] For questions or comments about the code, please email Zizhong Tian at <zqt5121@psu.edu>.
+This repository includes multiple R files that contain the functions for implementing all the point and variance estimation formulas presented in the paper [Tian Z, Chinchilli VM, Zhou S. TRAC: Robust Inter-Rater Agreement and Reliability Assessment. Under Review.] For questions or comments about the code, please email Zizhong Tian at <zqt5121@psu.edu>.
 
 functions_2raters.R = Functions for implementing the point estimation and interval estimation (SA, LRT, GOF methods) of TRAC measures and functions for the estimation of kappa, Phi, S, and AC1 methods used in the simulation experiments.
 
